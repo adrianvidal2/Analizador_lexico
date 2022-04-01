@@ -13,7 +13,7 @@ Eclipse
 - **analizadorSintactico.h** y **analizadorSintactico.c**: cabecera e implementación del analizador sintáctico, este se encarga de la petición de los componentes léxicos y de su impresión por pantalla.
 - **analizadorLexico.h** y **analizadorLexico.c**: cabecera e implementación del analizador léxico, encargado de la formación de los lexemas y la devolución al analizador sintáctico junto con el código correspondiente.
 - **sistemaEntrada.h** y **sistemaEntrada.c**: cabecera e implementación que permitirá la lectura del archivo, así como la ocupación de los centinelas.
-- **xestionErros.h** y **xestionErros.c": cabecera e implementación de los diferentes tipos de errores.
+- **xestionErros.h** y **xestionErros.c**: cabecera e implementación de los diferentes tipos de errores.
 - **erros.h**: definición de los tipos de errores que se pueden presentar.
 - **definicions.h**: definición de constantes para los diferentes tipos de componentes léxicos que se pueden presentar.
 - **concurrentSum.go**: fichero con una implementación básica de programa escrito en el lenguaje *GO* y que se desea analizar.
