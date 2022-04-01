@@ -17,7 +17,7 @@ Eclipse
 - **analizadorSintactico.h** y **analizadorSintactico.c**: header and implementation of the parser, this is in charge of requesting the tokens and printing them on the screen.
 - **analizadorLexico.h** y **analizadorLexico.c**: header and implementation of the lexical analyzer, in charge of the formation of the lexemes and the return to the parser together with the corresponding code.
 - **sistemaEntrada.h** y **sistemaEntrada.c**: header and implementation that will allow the reading of the file, as well as the occupation of the sentinels..
-- **xestionErros.h** y **xestionErros.c": header and implementation of the different types of errors.
+- **xestionErros.h** y **xestionErros.c**: header and implementation of the different types of errors.
 - **erros.h**: definition of the types of errors that can occur.
 - **definicions.h**: definition of constants for the different types of tokens that can occur.
 - **concurrentSum.go**: file with a basic implementation of a program written in the *GO* language and that you want to analyze.
