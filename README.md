@@ -1,6 +1,6 @@
 # Analizador léxico
 
-Implementación de un **analizador léxico** que se encaragará de le devolución de los componentes léxicos que aparecen en el archivo *concurrentSum.go*. El analizador se encuentra escrito en el lenguaxe **C**.
+Implementación de un **analizador léxico** que se encaragará de le devolución de los componentes léxicos que aparecen en el archivo *concurrentSum.go*. El analizador se encuentra escrito en el lenguaje **C**.
 
 Esta práctica ha sido realizada para la asignatura de *Compiladores e Intérpretes*, el guión de la práctica se puede ver [aquí](https://github.com/adrianvidal2/Analizador_lexico/blob/main/guion).
 
